@@ -1,0 +1,2 @@
+# mimosa
+Distributed message middleware
